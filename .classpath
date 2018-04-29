@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/controlp5-master.zip"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/controlP5-2.2.5/controlP5/library/controlP5.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/LeapDeveloperKit_2.3.1+31549_mac/LeapSDK/lib/LeapJava.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/SarahAllen/Documents/Honors Thesis/LeapDeveloperKit_2.3.1+31549_mac/LeapSDK/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core/library/gluegen-rt-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core/library/gluegen-rt-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core/library/gluegen-rt-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core/library/gluegen-rt-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core/library/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core/library/gluegen-rt-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core/library/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core/library/jogl-all-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core/library/jogl-all-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core/library/jogl-all-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core/library/jogl-all-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core/library/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core/library/jogl-all-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/Processing 2.app/Contents/Java/core/library/jogl-all.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/minim/library/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/minim/library/jsminim.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/minim/library/minim.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/minim/library/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/minim/library/tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/minim/library/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/ProgramInterface/jaf-1.1.1/activation.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/ProgramInterface/javamail-master/javax.mail-1.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/huesdkresources.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/huelocalsdk.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/G4P/library/G4P.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Processing/libraries/openkinect_processing/library/openkinect_processing.jar"/>
+	<classpathentry kind="lib" path="/Users/SarahAllen/Documents/Honors Thesis/SimpleOpenNI/library/SimpleOpenNI.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

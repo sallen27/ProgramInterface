@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ProgramInterface</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>proclipsing.core.ProcessingProjectNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/beep-05.wav</name>
+			<type>1</type>
+			<location>/Users/SarahAllen/Documents/Honors Thesis/beep-05.wav</location>
+		</link>
+		<link>
+			<name>src/beep21.mp3</name>
+			<type>1</type>
+			<location>/Users/SarahAllen/Documents/Honors Thesis/beep21.mp3</location>
+		</link>
+	</linkedResources>
+</projectDescription>
